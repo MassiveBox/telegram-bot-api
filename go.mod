@@ -1,5 +1,5 @@
-module github.com/go-telegram-bot-api/telegram-bot-api
+module github.com/MassiveBox/telegram-bot-api
 
-go 1.12
+go 1.15
 
 require github.com/technoweenie/multipartstreamer v1.0.1
